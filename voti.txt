@@ -1,0 +1,14 @@
+Michele;Fondamenti di Informatica;20
+Mario;Fondamenti di Informatica;10
+Paolo;Fisica I;18
+Anna;Fisica I;12
+Giulia;Fisica I;27
+Gianni;Fisica I;24
+Giorgio;Fisica II;18
+Paola;Fisica II;12
+Giorgio;Analisi I;24
+Paola;Analisi I;21
+Paola;Analisi II;11
+Giorgio;Analisi II;21
+Giulia;Analisi II;24
+Gianni;Analisi II;27
